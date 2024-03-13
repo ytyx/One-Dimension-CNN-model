@@ -1,6 +1,8 @@
 # One Dimension CNN for Malware Classification
 
 This repository contains code for classifying malware using 1D convolutional neural networks (CNNs). The process involves converting binary executable files into raw binary data, preprocessing the data, training a CNN model, and evaluating its performance.
+<img width="729" alt="Screenshot 2024-03-13 at 11 01 45 AM" src="https://github.com/ytyx/One-Dimension-CNN-model/assets/87250788/c87263a2-62ba-47eb-b794-b7e54826d9e2">
+
 - Data Representation: Converts binary executable files into raw binary data arrays.
 - Dataset Preparation: Splits the dataset into training and testing sets, and creates DataLoader objects for PyTorch.
 - Model Architecture: Defines the architecture of the 1D CNN model using PyTorch.
